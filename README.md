@@ -38,7 +38,7 @@ Django-powered AI chatbot trained on a custom intents dataset, delivering precis
    pip install -r requirements.txt
    ```
 
-3. **Place model files** in the correct path (update paths in `views.py` if necessary):  
+3. **Place files** in the correct path (update paths in `views.py` if necessary):  
    - `model_new.h5`  
    - `new_intent.json`  
    - `words.pkl`  
