@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
 [![Keras](https://img.shields.io/badge/Keras-2.12-red.svg)](https://keras.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 Django-powered AI chatbot trained on a custom intents dataset, delivering precise and immediate responses with a sleek, responsive Bootstrap UI.
 
