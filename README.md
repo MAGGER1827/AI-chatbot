@@ -56,36 +56,6 @@ Django-powered AI chatbot trained on a custom intents dataset, delivering precis
 
 ---
 
-## Project Structure
-```
 
-AI-chatbot/
-├── chat/
-│ ├── pycache/
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-├── chatbot/
-│ ├── pycache/
-│ ├── migrations/
-│ ├── templates/webbot/
-│ │ └── index.html
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── tests.py
-│ ├── urls.py
-│ └── views.py
-├── files/
-│ ├── classes.pkl
-│ ├── model_new.h5
-│ ├── new_intent.json
-│ └── words.pkl
-├── db.sqlite3
-└── manage.py
-```
 
 
