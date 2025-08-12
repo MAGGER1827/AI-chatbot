@@ -1,0 +1,69 @@
+{"intents": [
+        {"tag": "hi",
+         "patterns": ["Hi","Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day","greetings"],
+         "responses": [ "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting with you, bye", "Till next time"],
+         "responses": ["Talk to you later!", "Have a nice day", "Good Bye!."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Tx", "Tks", "Thks ","Thanks", "Thank you", "Gud","Good", "Awesome", "Thanks for helping me","Anyway thanks","tq","tqu"],
+         "responses": ["Happy to help!", "Welcome", "My pleasure"," Have a great day !"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Could you give me some more information ", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "courses",
+        "patterns": [ "courses pls", "courses what", "List courses", "Can u give me courses list", " What courses do you provide?", "What courses are you providing? ", "what courses ?", "what are options that providing your company?", "what courses ?", "What are the courses u are offering?", "Show the list of the courses that you are providing?" ,"courses of company"],
+        "responses": [ "Artificial intelligence, Deep Learning,  Robotics,UI/UX design, Digital Marketing, Graphic Designing, Python,PHP, .NET, Software testing, Web development,Django,HTML,BOOTSTRAP,CSS,Branding,Video Editing"],
+        "context": [ "" ]
+        },
+ 	{"tag": "corses",
+        "patterns": [ "corses pls", "corses what", "List corses", "Can u give me corses list", " What corses do you provide?", "What corses are you providing? ", "what corses ?", "what are options that providing your company?", "what corses ?", "What are the corses u are offering?", "Show the list of the corses that you are providing?" ,"corses of company"],
+        "responses": [ "Artificial intelligence, Deep Learning,  Robotics,UI/UX design, Digital Marketing, Graphic Designing, Python,PHP, .NET, Software testing, Web development,Django,HTML,BOOTSTRAP,CSS,Branding,Video Editing"],
+        "context": [ "" ]
+        },
+        {"tag": "syllabus",
+         "patterns": ["sylabus pls", "syllabus pls", "List syllabus", "Can u give me syllabus list"," What syllabus do you provide?","What syllabus are you providing? ","what syllabus ?","what are syllabus that providing your company?","what syllabus ?","What are the syllabus courses ?","Show the list of the courses that your syllabus providing?"],
+         "responses": ["Artificial intelligence, Deep Learning,  Robotics,UI/UX design, Digital Marketing, Graphic Designing, Python,PHP, .NET, Software testing, Web development,Django,HTML,BOOTSTRAP,CSS,Branding,Video Editing" ],
+         "context": [""]  
+        },
+        {"tag": "internship",
+         "patterns": ["Which courses do you have internship?","Internship like job?","What Internship?", " What are the internship courses?","Show the list of the internship courses that you are providing?"],
+         "responses": ["We provide internships for Artificial intelligence, UI/UX design, Digital Marketing, Manual Testing,Django,Python, Web Development. Call our Business Development Manager to find out more on this!"],
+         "context": [""]
+        },
+        {"tag": "services",
+         "patterns": ["What are the services are you providing?","List your services","Services that your company providing?"],
+         "responses": [" We take up projects on Web development, Digital marketing, AI , Graphic design, UI/UX Design, App development. Call our representative  for all related information"],
+         "context": [""]
+        },
+        {"tag": "duration",
+          "patterns": [ "How long the duration", "What is the Duration of courses?", "What is the time period of courses?", "Time duration for internship?", "Duration of each courses?","duration of courses" ],
+          "responses": [ "We offer courses for 3 months and 6 months.You can contact our helpdesk at 854*******. We will be happy to help ?" ],
+          "context": [ "" ]
+        },
+        {"tag": "How Long",
+         "patterns": ["How long the duration","How long courses?","How long  the time  of courses?","Time how long for internship?","Length of each course?"],
+         "responses": ["We offer courses for 3 months and 6 months. Please speak to our Marketing Manager for further information"],
+         "context": [""]
+        },
+        
+        {"tag": "employees",
+          "patterns": ["number of employees?","no.of employees?","how many number of employees in your company?","what is your employee size?","how many employees in your company?","count of employeees","employees count"],
+          "responses": ["10 - 50 employees "],
+          "context": [""]
+        },
+        {"tag": "employeees",
+          "patterns": ["number of employeees?","no.of employeees?","how many number of employeees in your company?","what is your employeees size?","how many employeees in your company?","count of employeees","employeees count"],
+          "responses": ["10 - 50 employees "],
+          "context": [""]
+        }
+   ]
+}
